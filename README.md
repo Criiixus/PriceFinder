@@ -26,9 +26,6 @@ Ele foi criado para ajudar na rotina de quem trabalha com **e-commerce**, especi
 ## ⚙️ Como Executar
 
 1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/pricefinder.git
-   cd pricefinder
 
 2. **Crie e ative um ambiente virtual (opcional, mas recomendado):**
 
